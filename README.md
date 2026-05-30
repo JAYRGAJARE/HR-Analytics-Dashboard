@@ -130,7 +130,7 @@ The project includes:
 
 # 📷 Dashboard Preview
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](dashboard.png
 
 ---
 
