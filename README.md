@@ -27,7 +27,7 @@ The dashboard includes detailed analysis of employee attrition, department-wise 
 | Technology | Purpose |
 |------------|----------|
 | Tableau | Dashboard Development & Data Visualization |
-| Excel / CSV | Data Source |
+| Excel  | Data Source |
 | Data Analytics | HR Data Analysis |
 | Business Intelligence | Insight Generation |
 
