@@ -137,4 +137,4 @@ The project includes:
 # 👨‍💻 Author
 
 ## Jay Gajare
-Computer Engineering Student | Data Analytics & Data Analyst Enthusiast
+Computer Engineering Student | Data Analytics Enthusiast
